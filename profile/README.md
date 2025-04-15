@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://twitter.com/thoughtdpot" target="_blank">
-    <img alt="Twitter: ThoughtSpot" src="https://img.shields.io/discord/1143209406037758065" />
+  <a href="https://developer.thoughtspot.com/join-discord" target="_blank">
+    <img alt="Discord: ThoughtSpot" src="https://img.shields.io/discord/1143209406037758065?style=for-the-badge&label=Discord" />
   </a>
   <br />
   <a href="https://twitter.com/thoughtspot" target="_blank">Twitter</a>
