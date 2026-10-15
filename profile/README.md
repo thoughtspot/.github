@@ -36,4 +36,3 @@ Join our developoer community and stay up to date with the latest news from the 
 
 - [Join us on discord](https://developer.thoughtspot.com/join-discord).
 - [ThoughtSpot Developer Blog](https://medium.com/thoughtspotdev).
-- [Join the weekly Developer AMA](https://thoughtspot.zoom.us/webinar/register/WN_m9OENPQpTkWclADeudahwA?utm_source=nurture_drip&utm_medium=discord&utm_campaign=tse_plg#/registration).
