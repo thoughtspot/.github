@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.thoughtspot.com/webinar-ai-analytics-hands-on-lab?utm_source=referral&utm_medium=github&utm_campaign=wb-handsonlab-dec26">
+    <img src="https://raw.githubusercontent.com/thoughtspot/.github/main/profile/hands-on-lab-banner.svg"
+         alt="git checkout ai-analytics: AI analytics for your app, data skills for your agent. Monthly live hands-on lab. Save your spot."
+         width="100%">
+  </a>
+</p>
+
 <div align="center">
   <a href="https://developer.thoughtspot.com/join-discord" target="_blank">
     <img alt="Discord: ThoughtSpot" src="https://img.shields.io/discord/1143209406037758065?style=flat-square&label=Chat%20on%20Discord" />
