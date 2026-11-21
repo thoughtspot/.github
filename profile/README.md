@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.thoughtspot.com/webinar-ai-analytics-hands-on-lab?utm_source=referral&utm_medium=github&utm_campaign=wb-handsonlab-dec26">
-    <img src="https://raw.githubusercontent.com/thoughtspot/.github/main/profile/hands-on-lab-banner-1.svg"
+    <img src="https://raw.githubusercontent.com/thoughtspot/.github/main/profile/hands-on-lab-banner-2.svg"
          alt="git checkout ai-analytics: AI analytics for your app, data skills for your agent. Monthly live hands-on lab. Save your spot."
          width="100%">
   </a>
